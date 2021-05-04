@@ -1,0 +1,134 @@
+/* This Is the navigation part of the page */
+
+#header{
+    background-color: rgb(10, 47, 102);
+    padding: 0px 0px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+nav{
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+    height: 60px;
+    border-bottom: 1px solid white;
+}
+li {
+	display: block;
+	
+	color: #666;
+	padding: 16px 16px;
+	float: right; 
+    }
+
+.logo{
+        float: left;
+        height: 30px;
+        padding: 5px;
+        
+        }
+      
+        
+       
+        /* Here is the Background Styling and contents*/
+
+
+
+#content{
+    background-color: rgba(0, 0, 0,);
+    max-width: 400px;
+    padding: 0px;
+    margin-top:0px;
+    }
+    .image{
+        float: right;
+    }
+#background-image{
+    background-color: brown;
+    height: 120px;
+    padding: 50px 40px;
+    color: white;
+    margin: 0px;
+    width: auto;
+}
+
+
+/* Here is the styling of the Blog post*/
+
+
+
+.main{
+    float: right;
+    padding: 0px 20px 20px 20px;
+
+}
+
+.text{
+            overflow: auto;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: inherit;
+}
+   
+p
+{
+    color: rgb(0, 0, 0)
+
+    }    
+
+
+    /*link styling*/
+
+
+
+a{
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+	
+	a:hover{
+		color: rgba(255, 255, 255, 0.747);
+      	}
+
+       
+       
+          /*Styling the Thumbnails in te character selection part*/
+
+
+          
+    .thumbnail{
+        display: inline-block;
+        height: auto;
+        padding: 4px;
+        margin-bottom: 20px;
+        background-color: rgb(0, 0, 0);
+        border: 1px solid black;
+        text-align: center;
+        color: burlywood;
+        margin: 50px;
+    }
+    h2{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(126, 116, 116)
+    }
+
+
+/*styling of the thumbnail
+*/
+
+    #select{
+        padding: 30px;
+    }
+
+    /*Styling the about section*/  
+      #contact{
+        background-color: rgb(0, 0, 0);
+    }
+    
+	
+	
